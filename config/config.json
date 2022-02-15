@@ -1,21 +1,22 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
+    "username": "b23f7e5117003b",
+    "password": "4ecaa7e9",
+    "database": "heroku_db23709e2c0a5d1",
+    "host": "eu-cdbr-west-02.cleardb.net",
+    "port": "3306",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": null,
+    "password": "root",
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": null,
+    "password": "root",
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql"
